@@ -1,0 +1,11 @@
+#Database
+HOST: "localhost"
+PORT: 3306
+DATABASE: "mineskieseco"
+USERNAME: "root"
+PASSWORD: ""
+
+minerrewards:
+  - DIAMOND
+  - IRON_INGOT
+  - GOLD_INGOT

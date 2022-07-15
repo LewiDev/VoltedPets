@@ -1,0 +1,9 @@
+name: VoltedPets
+version: '${project.version}'
+main: me.lewi.volted.Pets
+api-version: 1.18
+authors: [ LewiDEV ]
+description: A Pets plugin for Volted
+commands:
+  pets:
+    description: Open pet GUI
