@@ -1,13 +1,14 @@
-# VoltedPets
+# VoltedPets - Minecraft Spigot Plugin
 
-This is a plugin i had done as a commission however the client has allowed me to share code for my portfolio
- 
-this plugin spawns little heads which follow the player.
- 
-these heads are known as "pets",
-pets can be given to a user via a command and give different abilitys or chances to gain items etc
+VoltedPets is a Spigot plugin that introduces a fun and engaging pet system to your Minecraft server. The plugin spawns little heads that follow the player, known as "pets." These pets can be given to users via a command and offer various abilities, such as boosting chances of item drops or providing other unique benefits.
 
-pets can be viewed in a custom GUI, in which only "UNLOCKED" pets can be selected.
+Pets can be easily viewed and managed through a custom GUI, where only "UNLOCKED" pets can be selected for use. This plugin allows players to collect and utilize their pets, adding a new layer of excitement and customization to the gameplay experience.
 
-VIDEO:
-https://streamable.com/t6n28w
+Features:
+
+- Pets follow the player as little heads
+- Pets grant abilities or chances to gain items
+- Custom GUI to view and select "UNLOCKED" pets
+- Easy pet distribution via command
+
+This plugin was originally developed as a commission, but the client has allowed me to share the code for portfolio purposes. Add VoltedPets to your server for a more immersive and rewarding experience!
